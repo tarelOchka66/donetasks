@@ -21,4 +21,5 @@ i = input()
 print(dictionary[i])
 
 #task №6
-
+list_i = list(dictionary.keys())
+print(list_i)
